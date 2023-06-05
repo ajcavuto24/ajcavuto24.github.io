@@ -1,1 +1,86 @@
+h1{
+    background-color:rgb(50, 60, 70);
+    padding-top:10px;
+    padding-bottom:10px;
+    border:red solid;
+    z-index:2;
+}
 
+
+#img-logo{
+    width:180px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    z-index:1;
+}
+
+#img-mountains-ny{
+    width:cover;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border:black solid;
+}
+
+h3{
+    font-family:monospace;
+    font-weight:bold;
+    font-size:50px;
+    padding-top:10px;
+    text-align:center;
+    color:red;
+}
+
+#mountains-ny{
+    background-color:gray;
+}
+
+p{
+    font-family:sans-serif;
+}
+
+#table1{
+    padding-left:100px;
+    padding-right:100px;
+    margin-left:auto;
+    margin-right:auto;
+    border:black solid;
+}
+
+#table2{
+    margin-top:10px;
+    padding-left:100px;
+    padding-right:100px;
+    margin-left:auto;
+    margin-right:auto;
+    border:black solid;
+}
+
+#table3{
+    margin-left:auto;
+    margin-right:auto;
+    border:black solid;
+    margin-top:10px;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+table{
+    text-align:center;
+}
+
+th{
+    font-size:30px;
+}
+
+#footer{
+    background:black;
+}
+
+#footer ul{
+    color:white;
+    font-size:20px;
+    padding-bottom:50px;
+    padding-left:50px;
+}
